@@ -1,0 +1,14 @@
+{
+    "spiral": {
+        "data_size": 10000,
+        "n_steps": 100,
+        "batch_size": 128,
+        "epochs": 3001
+    },
+    "two_clusters": {
+        "data_size": 10000,
+        "n_steps": 90,
+        "batch_size": 128,
+        "epochs": 701
+    }
+}
